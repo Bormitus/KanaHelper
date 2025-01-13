@@ -14,3 +14,6 @@
 
 ## Экран карточек
 ![image](https://github.com/user-attachments/assets/bf63c438-af03-4f31-b534-d2835f5e9791)
+
+## Запуск
+В папке Builds сохранены билды для Windows и Android. Для Windows достаточно скачать папку, для Android нужно установить apk 
