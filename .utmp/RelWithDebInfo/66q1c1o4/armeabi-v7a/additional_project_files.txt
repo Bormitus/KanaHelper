@@ -1,1 +1,0 @@
-C:\Program Files User\Sharp\KanaHelper\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h
